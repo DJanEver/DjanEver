@@ -32,6 +32,7 @@
   &emsp;
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+	</a>
 </p>
 
 
@@ -47,7 +48,15 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-
-----
-
+   &nbsp;
+<p>
+   Contact me on 👇 😁
+</p>
+ <a href="https://www.linkedin.com/in/hakeem-watson-80b7b9206" target="_blank"> 
+   Linkedin
+  </a>
+  &nbsp;
+   <a href="Hakeemwatson67@gmail.com" target="_blank"> 
+   Gmail
+  </a>
 <br/>
